@@ -1,4 +1,4 @@
-# Foreword
+# Types & Grammar - Foreword
 
 ## You Don't Know JS: Types & Grammar
 

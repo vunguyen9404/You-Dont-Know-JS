@@ -1,4 +1,4 @@
-# Foreword
+# this & Object Prototypes - Foreword
 
 ## You Don't Know JS: _this_ & Object Prototypes
 

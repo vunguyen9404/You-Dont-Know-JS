@@ -1,4 +1,4 @@
-# ch4
+# Chapter 4: Async Flow Control
 
 ## You Don't Know JS: ES6 & Beyond
 

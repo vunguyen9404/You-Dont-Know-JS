@@ -1,4 +1,4 @@
-# Foreword
+# Async & Performance - Foreword
 
 ## You Don't Know JS: Async & Performance
 

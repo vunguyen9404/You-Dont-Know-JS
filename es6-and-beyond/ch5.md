@@ -1,4 +1,4 @@
-# ch5
+# Chapter 5: Collections
 
 ## You Don't Know JS: ES6 & Beyond
 

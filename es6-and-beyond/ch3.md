@@ -1,4 +1,4 @@
-# ch3
+# Chapter 3: Organization
 
 ## You Don't Know JS: ES6 & Beyond
 

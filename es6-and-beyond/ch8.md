@@ -1,4 +1,4 @@
-# ch8
+# Chapter 8: Beyond ES6
 
 ## You Don't Know JS: ES6 & Beyond
 

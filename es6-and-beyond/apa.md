@@ -1,4 +1,4 @@
-# apA
+# Appendix A: Acknowledgments
 
 ## You Don't Know JS: ES6 & Beyond
 

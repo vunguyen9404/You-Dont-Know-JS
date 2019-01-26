@@ -1,4 +1,4 @@
-# ch6
+# Chapter 6: API Additions
 
 ## You Don't Know JS: ES6 & Beyond
 
