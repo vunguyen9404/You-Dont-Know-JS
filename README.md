@@ -8,12 +8,12 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 ## Titles
 
-* Read online \(free!\): ["Up & Going"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/up/%20&/%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
-* Read online \(free!\): ["Scope & Closures"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/scope/%20&/%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* Read online \(free!\): ["this & Object Prototypes"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/this/%20&/%20object/%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* Read online \(free!\): ["Types & Grammar"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/types/%20&/%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* Read online \(free!\): ["Async & Performance"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/async/%20&/%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* Read online \(free!\): ["ES6 & Beyond"](https://github.com/vunguyen9404/You-Dont-Know-JS/tree/f0d591b6502c080b92e18fc470432af8144db610/es6/%20&/%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+* Read online \(free!\): ["Up & Going"](https://pika.shopdunk.vn/up-and-going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
+* Read online \(free!\): ["Scope & Closures"](https://pika.shopdunk.vn/scope-and-closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
+* Read online \(free!\): ["this & Object Prototypes"](https://pika.shopdunk.vn/this-and-object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
+* Read online \(free!\): ["Types & Grammar"](https://pika.shopdunk.vn/types-and-grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
+* Read online \(free!\): ["Async & Performance"](https://pika.shopdunk.vn/async-and-performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
+* Read online \(free!\): ["ES6 & Beyond"](https://pika.shopdunk.vn/es6-and-beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
 ## Publishing
 
